@@ -21,3 +21,11 @@ section {
 .navbar a:hover {
   padding: 6px 0;
 }
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
